@@ -1,0 +1,17 @@
+{
+  "name": "testimonials",
+  "version": "1.0.0",
+  "description": "frontend mentor challenge",
+  "main": "index.js",
+  "scripts": {
+    "compile-sass": "sass --watch sass/main.scss css/main.css"
+  },
+  "keywords": [
+    "Sass",
+    "Bootstrap",
+    "HTML",
+    "CSS"
+  ],
+  "author": "Ander-Tk",
+  "license": "ISC"
+}
